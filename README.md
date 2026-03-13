@@ -1,14 +1,14 @@
 ﻿# Task-Manager-Project
-# TaskFlow
+## TaskFlow
 
 TaskFlow is a **modern web-based task manager** built with HTML and Tailwind CSS. It allows users to organize tasks in a Kanban-style board with multiple columns like **To Do, In Progress, Review, and Done**. Users can create, edit, delete tasks, assign priorities, tags, due dates, and assignees.
 
 ---
 
-## 🗂 Project Structure
-# Main HTML file
-# Tailwind CSS compiled file       
-# Project documentation
+## Project Structure
+### Main HTML file
+### Tailwind CSS compiled file       
+### Project documentation
 
 
 ---
@@ -46,4 +46,5 @@ TaskFlow is a **modern web-based task manager** built with HTML and Tailwind CSS
 ## Author
 
 **Farzana Akbari / Sadia Mukhtar**
+
 
