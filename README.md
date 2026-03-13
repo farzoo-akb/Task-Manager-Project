@@ -42,9 +42,14 @@ TaskFlow is a **modern web-based task manager** built with HTML and Tailwind CSS
 - JavaScript (optional for dynamic functionality)
 
 ---
+## Screenshot 
+![TaskFlow Screenshot](Capture.png)
+
+---
 
 ## Author
 
 **Farzana Akbari / Sadia Mukhtar**
+
 
 
