@@ -46,6 +46,12 @@ TaskFlow is a **modern web-based task manager** built with HTML and Tailwind CSS
 ![TaskFlow Screenshot](Capture.PNG)
 
 ---
+## Live Demo
+You can view the live version of the project here:
+
+[https://farzoo-akb.github.io/TaskFlow/](https://farzoo-akb.github.io/Task-Manager-Project/)
+
+---
 
 ## Author
 
